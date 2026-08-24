@@ -8,6 +8,7 @@
 Describe your business in plain language — BIROO generates a complete, published website in under a minute.
 
 [![Live](https://img.shields.io/badge/live-biroo.uz-C08A2E)](https://biroo.uz)
+[![Demo](https://img.shields.io/badge/▶_demo-YouTube-FF0000)](https://youtu.be/7knKFDkMeFo)
 ![Stage](https://img.shields.io/badge/stage-MVP-1C3163)
 ![Made in](https://img.shields.io/badge/made%20in-Tashkent%2C%20Uzbekistan-1C3163)
 ![Languages](https://img.shields.io/badge/UI-uz%20%C2%B7%20ru%20%C2%B7%20en-C08A2E)
