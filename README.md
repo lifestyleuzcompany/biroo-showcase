@@ -12,7 +12,11 @@ Describe your business in plain language — BIROO generates a complete, publish
 ![Made in](https://img.shields.io/badge/made%20in-Tashkent%2C%20Uzbekistan-1C3163)
 ![Languages](https://img.shields.io/badge/UI-uz%20%C2%B7%20ru%20%C2%B7%20en-C08A2E)
 
-**🌐 Live product: [biroo.uz](https://biroo.uz)**
+**🌐 Live product: [biroo.uz](https://biroo.uz)  ·  ▶️ [Watch the demo](https://youtu.be/7knKFDkMeFo)**
+
+<a href="https://youtu.be/7knKFDkMeFo">
+  <img src="screenshots/03-demo.png" alt="Watch the BIROO demo" width="70%"/>
+</a>
 
 </div>
 
